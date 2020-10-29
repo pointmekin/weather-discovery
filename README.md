@@ -1,3 +1,9 @@
+☁ This project utilizes the OpenWeatherMap API to retrieve and display the user queried information in a complete single page interface.
+
+✨ ReactJS was utilized to build the front-end, and Bootstrap was used for the UI components.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
